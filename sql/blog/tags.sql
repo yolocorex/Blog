@@ -1,0 +1,13 @@
+INSERT INTO `tags` (`id`, `name`, `is_builtin`, `created_at`, `updated_at`) VALUES (1, 'vue', 1, '2026-01-21 17:25:59', '2026-01-21 17:25:59');
+INSERT INTO `tags` (`id`, `name`, `is_builtin`, `created_at`, `updated_at`) VALUES (3, 'react', 1, '2026-01-21 17:27:03', '2026-01-21 17:27:03');
+INSERT INTO `tags` (`id`, `name`, `is_builtin`, `created_at`, `updated_at`) VALUES (5, 'docker', 1, '2026-01-21 17:27:23', '2026-01-21 17:27:23');
+INSERT INTO `tags` (`id`, `name`, `is_builtin`, `created_at`, `updated_at`) VALUES (6, 'java', 1, '2026-01-21 17:27:30', '2026-01-21 17:27:30');
+INSERT INTO `tags` (`id`, `name`, `is_builtin`, `created_at`, `updated_at`) VALUES (7, 'npm', 1, '2026-01-21 17:27:37', '2026-01-21 17:27:37');
+INSERT INTO `tags` (`id`, `name`, `is_builtin`, `created_at`, `updated_at`) VALUES (8, 'linux', 1, '2026-01-21 17:27:46', '2026-01-21 17:27:46');
+INSERT INTO `tags` (`id`, `name`, `is_builtin`, `created_at`, `updated_at`) VALUES (9, 'nginx', 1, '2026-01-21 17:27:54', '2026-01-21 17:27:54');
+INSERT INTO `tags` (`id`, `name`, `is_builtin`, `created_at`, `updated_at`) VALUES (10, 'svn', 1, '2026-01-21 17:28:02', '2026-01-21 17:28:02');
+INSERT INTO `tags` (`id`, `name`, `is_builtin`, `created_at`, `updated_at`) VALUES (12, 'js', 1, '2026-03-02 17:27:12', '2026-03-02 17:27:12');
+INSERT INTO `tags` (`id`, `name`, `is_builtin`, `created_at`, `updated_at`) VALUES (13, 'Git', 1, '2026-03-03 14:21:09', '2026-03-03 14:21:09');
+INSERT INTO `tags` (`id`, `name`, `is_builtin`, `created_at`, `updated_at`) VALUES (14, 'ts', 1, '2026-03-03 14:31:44', '2026-03-03 14:31:44');
+INSERT INTO `tags` (`id`, `name`, `is_builtin`, `created_at`, `updated_at`) VALUES (15, 'nodejs', 1, '2026-03-03 15:55:55', '2026-03-03 15:55:55');
+INSERT INTO `tags` (`id`, `name`, `is_builtin`, `created_at`, `updated_at`) VALUES (16, 'canvas', 1, '2026-03-03 16:50:32', '2026-03-03 16:50:32');

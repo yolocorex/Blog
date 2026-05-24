@@ -1,0 +1,13 @@
+INSERT INTO `article_tags` (`article_id`, `tag_id`, `created_at`, `updated_at`) VALUES (1, 12, '2026-03-02 17:27:36', '2026-03-02 17:27:36');
+INSERT INTO `article_tags` (`article_id`, `tag_id`, `created_at`, `updated_at`) VALUES (2, 13, '2026-03-03 14:25:30', '2026-03-03 14:25:30');
+INSERT INTO `article_tags` (`article_id`, `tag_id`, `created_at`, `updated_at`) VALUES (3, 14, '2026-03-03 14:57:39', '2026-03-03 14:57:39');
+INSERT INTO `article_tags` (`article_id`, `tag_id`, `created_at`, `updated_at`) VALUES (4, 3, '2026-03-03 15:09:41', '2026-03-03 15:09:41');
+INSERT INTO `article_tags` (`article_id`, `tag_id`, `created_at`, `updated_at`) VALUES (5, 3, '2026-03-03 15:32:12', '2026-03-03 15:32:12');
+INSERT INTO `article_tags` (`article_id`, `tag_id`, `created_at`, `updated_at`) VALUES (6, 3, '2026-03-03 15:39:35', '2026-03-03 15:39:35');
+INSERT INTO `article_tags` (`article_id`, `tag_id`, `created_at`, `updated_at`) VALUES (7, 1, '2026-03-03 15:51:52', '2026-03-03 15:51:52');
+INSERT INTO `article_tags` (`article_id`, `tag_id`, `created_at`, `updated_at`) VALUES (8, 15, '2026-03-03 16:02:52', '2026-03-03 16:02:52');
+INSERT INTO `article_tags` (`article_id`, `tag_id`, `created_at`, `updated_at`) VALUES (9, 15, '2026-03-03 16:06:29', '2026-03-03 16:06:29');
+INSERT INTO `article_tags` (`article_id`, `tag_id`, `created_at`, `updated_at`) VALUES (10, 15, '2026-03-03 16:09:58', '2026-03-03 16:09:58');
+INSERT INTO `article_tags` (`article_id`, `tag_id`, `created_at`, `updated_at`) VALUES (11, 9, '2026-03-03 16:33:34', '2026-03-03 16:33:34');
+INSERT INTO `article_tags` (`article_id`, `tag_id`, `created_at`, `updated_at`) VALUES (12, 12, '2026-03-03 16:50:19', '2026-03-03 16:50:19');
+INSERT INTO `article_tags` (`article_id`, `tag_id`, `created_at`, `updated_at`) VALUES (12, 16, '2026-03-03 16:50:46', '2026-03-03 16:50:46');
